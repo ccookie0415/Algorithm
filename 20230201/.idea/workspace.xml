@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df06aece-e1c6-4014-8d3d-f657e8e06297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../20230202/aa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/baby_gin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/baby_gin2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/bus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/flatten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/flatten2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/당근.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20230202/소인수분해.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입력연습/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/입력연습/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20230202/flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/../20230202/flatten.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
