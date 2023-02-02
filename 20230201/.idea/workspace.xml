@@ -2,34 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df06aece-e1c6-4014-8d3d-f657e8e06297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/알고리즘.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/20230201.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/230201_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Babygin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountingSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/gravity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/input_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/input_gravity.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/input_minmax.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/input_구간합.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/min_max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/minmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/구간합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/입력연습_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입력연습/정렬연습.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/aa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/baby_gin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/baby_gin2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/flatten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/flatten2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/당근.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20230202/소인수분해.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입력연습/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/입력연습/view.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="정렬연습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -105,5 +89,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
