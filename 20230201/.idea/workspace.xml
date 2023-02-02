@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df06aece-e1c6-4014-8d3d-f657e8e06297" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../20230202/flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/../20230202/flatten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/230201_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babygin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountingSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/입력연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/입력연습/min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/입력연습/pppp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/입력연습/소인수분해.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20230202/aa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20230202/baby_gin2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20230202/flatten2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
