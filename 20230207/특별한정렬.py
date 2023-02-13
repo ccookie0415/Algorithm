@@ -26,6 +26,7 @@ for tc in range(1, T+1):
         new_lst[n_2] = a_lst[num_2]
         num_2 += 1
 
+    print(new_lst)
     ans = ' '.join(map(str,(new_lst[:10])))
 
     print(f'#{tc} {ans}')
