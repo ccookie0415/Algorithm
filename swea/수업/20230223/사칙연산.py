@@ -39,10 +39,9 @@ for tc in range(1, T+1):
             tree[node_num][1] = int(node_info[2])
             tree[node_num][2] = int(node_info[3])
 
-    print(tree)
     result = 0
     cal(1)
-    print("#{} {}".format(tc, result))
+    print(f'#{tc} {result}')
 
 
 
