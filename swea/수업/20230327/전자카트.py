@@ -20,7 +20,7 @@ for tc in range(1,T+1):
     N = int(input())
     arr = [list(map(int,input().split())) for _ in range(N)]
     min_ = 99999999
-    visited = [0]*(N)
+    visited = [0]*N
 
     dfs(1, 0, 1)
     print(f'#{tc} {min_}')
