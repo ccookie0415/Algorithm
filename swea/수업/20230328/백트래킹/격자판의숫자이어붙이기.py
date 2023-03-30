@@ -18,8 +18,7 @@ def find(i,j,cnt,number):
             ni = i + di[k]
             nj = j + dj[k]
             if 0 <= ni < 4 and 0 <= nj < 4:
-                find(ni, nj, cnt + 1, number + arr[ni][nj])
-
+                find(ni, nj, cnt + 1, number + arr[i][j])
 
 T = int(input())
 
@@ -29,6 +28,6 @@ for tc in range(1,T+1):
 
     for i in range(4):
         for j in range(4):
-            find(i, j, 1, arr[i][j])
+            find(i, j, 0, arr[i][j])
 
     print(f'#{tc} {len(result)}')
