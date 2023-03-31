@@ -1,22 +1,29 @@
-def find(n, sum_):
-    global ans
+def eat(a, b, idx, check):
+    global result, i, j
 
-    if n >= N:
+
+    if a == i and b == j and idx == 3:
+        result = max(result, len(check))
         return
 
-    if sum_ + A[n] == K:
-        ans += 1
+    if 0 <= a < N and 0 <= b < N and dessert[a][b] not in check:
+        check = check + [dessert[a][b]]
 
-    find(n + 1, sum_ + A[n])
-    find(n + 1, sum_)
+        eat(a+direction[idx][0], b+direction[idx][1], idx, check)
+
+        if idx < 3:
+            eat(a+direction[idx+1][0], b+direction[idx+1][1], idx+1, check)
 
 
-T = int(input())
+Test_case = int(input())
 
-for tc in range(1, T + 1):
-    N, K = map(int, input().split())
-    A = list(map(int, input().split()))
-    ans = 0
+for t in range(Test_case):
+    N = int(input())
+    dessert = [list(map(int, input().split())) for _ in range(N)]
+    result = -1
+    direction = [(1, -1), (1, 1), (-1, 1), (-1, -1)]
 
-    find(0, 0)
-    print(f'#{tc} {ans}')
+    for i in range(N):
+        for j in range(1,N-1):
+            eat(i, j, 0, [])
+    print(f'#{t+1} {result}')
