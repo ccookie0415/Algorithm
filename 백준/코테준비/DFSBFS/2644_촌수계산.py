@@ -14,7 +14,7 @@ N = int(input())
 A,B = map(int,input().split())
 M = int(input())
 adj = [[] for _ in range(N+1)]
-visited=[0] * (N+1)
+visited = [0] * (N+1)
 ans=[]
 cnt = -1
 
